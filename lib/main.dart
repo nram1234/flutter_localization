@@ -27,6 +27,7 @@ class MyApp extends StatelessWidget {
         }
         return supportedLocales.first;
     },
+
       home: MyHomePage(title: 'Flutter Demo Home Page'),
     );
   }
